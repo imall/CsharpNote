@@ -1,0 +1,63 @@
+# .NET Ignore File
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Uncomment if you have tasks that create the project's static website
+# wwwroot/
+
+# Uncomment if you have tasks that create the project's static website
+# wwwroot/
+
+# Publish results
+[Pp]ublish/
+[Pp]ublishProfiles/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/*
+
+# Only include if the repository contains the Visual Studio Code settings
+.vscode/*
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Microsoft Application Insights
+ApplicationInsights.config
+ApplicationInsightsTelemetry.config
+
+# End of `.NET` `.gitignore`
